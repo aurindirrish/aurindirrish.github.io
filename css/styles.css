@@ -1,0 +1,23 @@
+body {
+    background-color: #0e0e10;
+    color: #fafafa;
+    font-family: "Lato", sans-serif;
+}
+
+.menu {
+    position: relative;
+    float: right;
+    width: 20%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.name {
+    position: relative;
+    left: 40%;
+    width: 80%;
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 750%;
+}
